@@ -6,7 +6,7 @@
          version="3.0" metadata-complete="true">
 
     <display-name>Spring PetClinic</display-name>
-    <description>Spring PetClinic sample application</description>
+    <description>Spring PetClinic sample application For Me</description>
 
     <!-- When using Spring jpa, use the following: -->
     <context-param>
